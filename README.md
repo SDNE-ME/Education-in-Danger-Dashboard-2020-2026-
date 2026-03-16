@@ -1,11 +1,11 @@
 # Education-in-Danger-Dashboard-2020-2026-
-**Project Overview**
+## Project Overview
 
 This project presents an interactive Excel dashboard analyzing incidents affecting education between 2020 and 2026. The analysis highlights patterns of attacks on schools and universities, as well as the impact on students and educators across different countries.
 
 The objective of the project is to transform raw humanitarian data into clear insights using Microsoft Excel data analysis and visualization techniques.
 
-#Dataset
+# Dataset
 
 Dataset Source:
 Humanitarian Data Exchange (HDX)
@@ -27,7 +27,7 @@ The dataset contains reported incidents affecting education including:
 
 - Year of occurrence
 
-##Key Questions Answered
+## Key Questions Answered
 
 This dashboard was designed to answer important analytical questions:
 
@@ -41,9 +41,9 @@ This dashboard was designed to answer important analytical questions:
 
 - Which countries recorded the highest number of affected children?
 
-#Dashboard Features
+# Dashboard Features
 
-The Excel dashboard includes the following visualizations:
+The Excel dashboard includes the following visualisations:
 
 • Total Events by Year
 • Number of Events by Country
@@ -56,7 +56,7 @@ The Excel dashboard includes the following visualizations:
 
 Interactive filters and slicers allow users to explore trends across different countries and years.
 
-##Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 - Microsoft Excel
 
@@ -72,7 +72,7 @@ Interactive filters and slicers allow users to explore trends across different c
 
 - Exploratory Data Analysis (EDA)
 
-#Key Insights
+# Key Insights
 
 Some insights derived from the analysis include:
 
