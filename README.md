@@ -1,5 +1,5 @@
 # Education-in-Danger-Dashboard-2020-2026-
-##Project Overview
+##Project Overview##
 
 This project presents an interactive Excel dashboard analyzing incidents affecting education between 2020 and 2026. The analysis highlights patterns of attacks on schools and universities, as well as the impact on students and educators across different countries.
 
